@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424b6035-ddbe-47e0-9be6-2b30359b058a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.bowerrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/land.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/libs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Raleway-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Raleway-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Raleway-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/fish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ocean9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/libs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/camelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/toType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/rboxStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/isFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/isWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/default/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/default/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/default/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/default/_vertical-rhythm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/deprecated-compass/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/deprecated-compass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/deprecated-compass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/_init.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/document/_document.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/embedded/_embedded.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/embedded/embedded-img.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/embedded/embedded-svg.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-button.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-fieldset.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-input-checkbox.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-input-radio.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-input.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-label.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-select.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/forms/forms-textarea.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/_grouping.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-blockquote.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-dl.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-figure.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-hr.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-ol.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-p.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-pre.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/grouping/grouping-ul.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/hidden/_hidden.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/interactive/_interactive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/links/_links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/links/links-a.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/scripting/_scripting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/sections/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/sections/headings-h.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/tables/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/tables/tables-table.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-abbr.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-b.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-cite.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-code.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-del.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-dfn.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-i.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-ins.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-mark.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-q.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-s.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-small.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-sub.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/base/text/text-u.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/components/divider/_divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/components/divider/divider.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/components/divider/divider.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/forms/button/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/forms/button/button.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/init/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/init/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/init/rtl/_rtl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey-chroma-kss/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/fork-versions/typey/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/sass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/sass/normalize/_import-now.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/sass/normalize/_normalize-mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/sass/normalize/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/normalize-scss/sass/normalize/_vertical-rhythm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_base.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_font.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_libs.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_mixins.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5319936">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="94">
+          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="282">
+                  <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/js/common.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1407">
+                  <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="63">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.bowerrc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_font.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_font.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_mixins.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_mixins.sass">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="_variables.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_libs.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="4" selection-start-column="4" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="546">
+                  <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_base.sass" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="1" selection-start-column="1" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>magnific-popup</find>
+      <find>magnific</find>
+      <find>jq</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/app/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/sass/_mixins.sass" />
+        <option value="$PROJECT_DIR$/app/sass/layout/base.sass" />
+        <option value="$PROJECT_DIR$/app/css/main.css" />
+        <option value="$PROJECT_DIR$/app/sass/config/_mixins.sass" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/app/sass/libs.sass" />
+        <option value="$PROJECT_DIR$/app/sass/layout/_fonts.sass" />
+        <option value="$PROJECT_DIR$/app/sass/config/_variables.sass" />
+        <option value="$PROJECT_DIR$/app/sass/layout/_font.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_libs.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_media.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_font.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_variables.sass" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/sass/_base.sass" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/normalize-scss/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1360" />
+    <option name="height" value="961" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gridlanding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridlanding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridlanding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridlanding" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridlanding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridlanding" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/js/libs.min.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\gridlanding" />
+      <recent name="C:\OSPanel\domains\gridlanding\app\sass" />
+      <recent name="C:\OSPanel\domains\land\app\sass\config" />
+      <recent name="C:\OSPanel\domains\land" />
+      <recent name="C:\OSPanel\domains\store\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424b6035-ddbe-47e0-9be6-2b30359b058a" name="Default" comment="" />
+      <created>1531818609503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531818609503</updated>
+      <workItem from="1531818610750" duration="1599000" />
+      <workItem from="1531820492829" duration="1576000" />
+      <workItem from="1531824195171" duration="10737000" />
+      <workItem from="1531848208082" duration="4085000" />
+      <workItem from="1531853257974" duration="9602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27599000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11845584" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007932" side_tool="true" weight="0.32932934" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32932934" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49920678" visible="true" weight="0.33733734" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/index" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_font.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/libs.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack-stream/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
