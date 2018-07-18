@@ -1,1 +1,1 @@
-<h3>Landing page with just the Grid</h3> 
+<h3>Landing page with the Grid</h3> 
