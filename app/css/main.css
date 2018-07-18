@@ -231,6 +231,43 @@ body {
 .about__right {
   padding-left: 40px; }
 
+.form {
+  padding: 30px 0;
+  background-color: #28303f; }
+  .form input {
+    background-color: #50607d; }
+  .form form {
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr); }
+  .form .button {
+    font-size: 20px;
+    padding: 13px;
+    width: 100%;
+    margin: 0; }
+
+input, textarea {
+  border: none;
+  padding: 15px 20px;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  outline: none;
+  -webkit-transition: background-color .25s ease;
+  -o-transition: background-color .25s ease;
+  transition: background-color .25s ease; }
+  input:focus, textarea:focus {
+    background-color: #e8ebf8; }
+  input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color: #8393b0; }
+  input::-moz-placeholder, textarea::-moz-placeholder {
+    color: #8393b0; }
+  input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+    color: #8393b0; }
+  input::-ms-input-placeholder, textarea::-ms-input-placeholder {
+    color: #8393b0; }
+  input::placeholder, textarea::placeholder {
+    color: #8393b0; }
+
 .grid {
   display: grid; }
 
