@@ -1,13 +1,17 @@
 @font-face {
   font-family: 'raleway-grid';
   src: url("../fonts/Raleway-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-  @font-face {}  font-family: 'raleway-grid';
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'raleway-grid';
   src: url("../fonts/Raleway-Bold.ttf") format("truetype");
   font-weight: 700;
-  font-style: normal;
-  @font-face {}  font-family: 'raleway-grid';
+  font-style: normal; }
+
+@font-face {
+  font-family: 'raleway-grid';
   src: url("../fonts/Raleway-ExtraBold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal; }
@@ -201,5 +205,36 @@ body {
     .button-gray:active::after {
       opacity: .32; }
 
+.landing {
+  padding: 80px 0; }
+  .landing h2 {
+    font-size: 35px;
+    font-weight: 800;
+    color: #28303f;
+    line-height: 1.2; }
+
+.about {
+  background-color: #e8ebf8; }
+  .about .container {
+    grid-template-columns: 1fr 1fr; }
+
+.about__left {
+  border-right: 1px solid #dadada;
+  font-size: 18px;
+  padding: 60px 60px 60px 0; }
+  .about__left h2 {
+    margin-top: 0;
+    margin-bottom: 40px; }
+  .about__left p {
+    font-weight: 400; }
+
+.about__right {
+  padding-left: 40px; }
+
 .grid {
   display: grid; }
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px; }
